@@ -15,7 +15,7 @@ npm test
 With coverage:
 
 ```
-npm test --coverage
+npm test -- --coverage
 ```
 
 Specific tests (in this case for MyComponent-test.js):

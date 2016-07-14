@@ -1,5 +1,4 @@
 jest.unmock('../MyComponent');
-jest.unmock('../Foo');
 
 import React from 'react';
 import { shallow } from 'enzyme';
